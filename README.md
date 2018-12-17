@@ -6,3 +6,4 @@ R language practice
 3. 物件轉換
 4. 實作範例
 5. 課堂實作練習
+6. BMI
