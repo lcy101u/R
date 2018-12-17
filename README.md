@@ -5,3 +5,4 @@ R language practice
 2. Data.frame(資料框架)
 3. 物件轉換
 4. 實作範例
+5. 課堂實作練習
